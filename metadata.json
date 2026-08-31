@@ -1,0 +1,6 @@
+{
+  "name": "AutoGold - Gestão de Funilaria e Pintura",
+  "description": "Sistema profissional para gestão de orçamentos de funilaria e pintura automotiva com cálculo fracionado de materiais, envio por WhatsApp e recibo Pix.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
