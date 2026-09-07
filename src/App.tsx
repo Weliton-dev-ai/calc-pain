@@ -10,7 +10,6 @@ import {
   SAMPLE_BUDGETS,
   SAMPLE_CASH_FLOW
 } from './data/defaultData';
-import { AuthScreen } from './components/AuthScreen';
 import { Navbar } from './components/Navbar';
 import { BudgetList } from './components/BudgetList';
 import { BudgetWizard } from './components/BudgetWizard';
